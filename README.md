@@ -1,0 +1,2 @@
+# quickcalc
+make maths easier
